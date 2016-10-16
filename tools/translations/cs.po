@@ -33,10 +33,9 @@ msgid "step argument is zero!"
 msgstr ""
 
 #: modules/gdscript/gd_functions.cpp
-msgid ""
-"Paths cannot start with '/', absolute paths must start with 'res://', "
-"'user://', or 'local://'"
-msgstr ""
+msgid "Paths cannot start with '/', absolute paths must start with 'res://', 'user://', or 'local://'"
+
+msgstr "Cesta nemůže začínat znakem '/' ,přímá vesta musí začínat 'res://','user://', nebo 'local://'"
 
 #: modules/gdscript/gd_functions.cpp
 msgid "Not a script with an instance"
