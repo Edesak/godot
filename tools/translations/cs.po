@@ -35,7 +35,7 @@ msgstr ""
 #: modules/gdscript/gd_functions.cpp
 msgid "Paths cannot start with '/', absolute paths must start with 'res://', 'user://', or 'local://'"
 
-msgstr "Cesta nemůže začínat znakem '/' ,přímá cesta musí začínat 'res://','user://', nebo 'local://'"
+msgstr "Cesty nemůže začínat znakem '/' ,přímé cesty musí začínat 'res://','user://', nebo 'local://'"
 
 #: modules/gdscript/gd_functions.cpp
 msgid "Not a script with an instance"
@@ -67,28 +67,20 @@ msgstr "Neplatná instance slovníku (neplatné podtřídy)"
 
 #: modules/visual_script/visual_script.cpp
 #, fuzzy
-msgid ""
-"A node yielded without working memory, please read the docs on how to yield "
-"properly!"
-msgstr ""
-"Uzel zavolal yield bez pracovní paměti. Přečtěte si prosím v dokumentaci, "
-"jak správně používat yield!"
+msgid "A node yielded without working memory, please read the docs on how to yield properly!"
+
+msgstr "Uzel zavolal yield bez pracovní paměti. Přečtěte si prosím v dokumentaci, jak správně používat yield!"
+
 
 #: modules/visual_script/visual_script.cpp
 #, fuzzy
-msgid ""
-"Node yielded, but did not return a function state in the first working "
-"memory."
+msgid "Node yielded, but did not return a function state in the first working memory."
 msgstr "Uzel zavolal yield, ale nevrátil stav funkce v první pracovní paměti."
 
 #: modules/visual_script/visual_script.cpp
 #, fuzzy
-msgid ""
-"Return value must be assigned to first element of node working memory! Fix "
-"your node please."
-msgstr ""
-"Návratová hodnota musí být přiřazena prvnímu prvku uzlu pracovní paměti. "
-"Opravte prosím váš uzel."
+msgid "Return value must be assigned to first element of node working memory! Fix your node please."
+msgstr "Návratová hodnota musí být přiřazena prvnímu prvku uzlu pracovní paměti! Opravte prosím váš uzel."
 
 #: modules/visual_script/visual_script.cpp
 msgid "Node returned an invalid sequence output: "
@@ -223,11 +215,11 @@ msgstr "Přechod"
 
 #: modules/visual_script/visual_script_editor.cpp
 msgid "Sequence"
-msgstr ""
+msgstr "Sekvence"
 
 #: modules/visual_script/visual_script_editor.cpp
 msgid "Switch"
-msgstr ""
+msgstr "Přepínač"
 
 #: modules/visual_script/visual_script_editor.cpp
 msgid "Iterator"
@@ -235,7 +227,7 @@ msgstr ""
 
 #: modules/visual_script/visual_script_editor.cpp
 msgid "While"
-msgstr ""
+msgstr "Během"
 
 #: modules/visual_script/visual_script_editor.cpp
 #, fuzzy
@@ -248,12 +240,12 @@ msgstr "Volat"
 
 #: modules/visual_script/visual_script_editor.cpp
 msgid "Get"
-msgstr ""
+msgstr "Dostat"
 
 #: modules/visual_script/visual_script_editor.cpp
 #: tools/editor/property_editor.cpp
 msgid "Set"
-msgstr ""
+msgstr "Nastavit"
 
 #: modules/visual_script/visual_script_editor.cpp
 #: tools/editor/plugins/canvas_item_editor_plugin.cpp
@@ -321,11 +313,11 @@ msgstr "Vyhledat typ uzlu"
 
 #: modules/visual_script/visual_script_editor.cpp
 msgid "Copy Nodes"
-msgstr ""
+msgstr "Kopírovat uzly"
 
 #: modules/visual_script/visual_script_editor.cpp
 msgid "Cut Nodes"
-msgstr ""
+msgstr "Vyjmout uzly"
 
 #: modules/visual_script/visual_script_editor.cpp
 #, fuzzy
